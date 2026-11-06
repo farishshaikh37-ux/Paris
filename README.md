@@ -1,0 +1,2 @@
+# Paris
+https://github.com/skills/getting-started-with-github-copilot.git
